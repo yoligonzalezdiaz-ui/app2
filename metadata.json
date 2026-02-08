@@ -1,0 +1,7 @@
+{
+  "name": "TitanFit AI - Tu Gimnasio Inteligente",
+  "description": "Una aplicación de fitness avanzada con rutinas, seguimiento de entrenamiento y entrenador personal con IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
